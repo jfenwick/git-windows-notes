@@ -1,7 +1,5 @@
 # git-windows-notes
 
-# SETUP GIT FOR COMMAND LINE
-
 # Add subl from Sublime Text to path
 
 # Generate ssh key
