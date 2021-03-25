@@ -39,3 +39,6 @@ ssh-add $HOME/.ssh/your_file_name
 ```
 
 5. Done! Now restart your Powershell and even Windows if necessary.
+
+# Starting a new repo
+https://kbroman.org/github_tutorial/pages/init.html
